@@ -1,0 +1,60 @@
+{
+    "products":[
+        {
+            "id": 1,
+            "name": "Burger Large",
+            "price": 20,
+            "count": 2,
+            "isInCart": true
+        },
+        {
+            "id": 2,
+            "name": "Fries",
+            "count": 4,
+            "price": 50,
+            "isInCart": true
+        },
+        {
+            "id": 4,
+            "name": "Water",
+            "count": 1,
+            "price": 100,
+            "isInCart": true
+        },
+        {
+            "id": 5,
+            "name": "Chicken",
+            "count": 1,
+            "price": 60,
+            "isInCart": true
+        },
+        {
+            "id": 6,
+            "name": "Meat",
+            "count": 1,
+            "price": 300,
+            "isInCart": false
+        },
+        {
+            "name": "Fish",
+            "price": "200",
+            "count": 1,
+            "isInCart": false,
+            "id": 7
+        },
+        {
+            "name": "Rice",
+            "price": "70",
+            "count": 1,
+            "isInCart": false,
+            "id": 9
+        },
+        {
+            "name": "Sandwich",
+            "price": "20",
+            "id": 11,
+            "count": 1,
+            "isInCart": false
+        }
+    ]
+}
